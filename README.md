@@ -1,3 +1,3 @@
 # Algothon-Trading-Algorithm
-Develop a trading strategies\ 
-teamName.py creates a temporary log.txt file to stores past positions, at the end of date 249, the file is deleted.\
+Develop a trading strategies  
+teamName.py creates a temporary log.txt file to stores past positions, at the end of date 249, the file is deleted.  
